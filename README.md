@@ -1,6 +1,4 @@
----
-
-👋 **Hi, I’m Aaron Jacob (@AaronJcb)** 
+# 👋 Hi, I’m Aaron Jacob (@AaronJcb)
 
 **Who I Am:**  
 I’m captivated by the intricate worlds of finance, technology, and data—especially where they intersect. From diving into markets and crafting financial models to experimenting with tech solutions, I’m driven by a love for problem-solving and continuous learning. My journey through finance has been shaped by curiosity, rigor, and a drive to understand the “why” behind the numbers, which led me to complete CFA Level 2 and pursue a master’s with a focus on FinTech.
@@ -21,5 +19,3 @@ When I’m not working, you’ll likely find me:
 
 **💼 Let’s Connect:**  
 I’m here to build, collaborate, and grow. Whether you’re in finance, tech, or something in between, let’s talk and see where our paths might align! Connect with me on [LinkedIn](https://www.linkedin.com/in/aaronjacob83).
-
----
